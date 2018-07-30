@@ -35,3 +35,8 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 "# FastRecite" 
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0730/173201_9553e504_120025.png "在这里输入图片标题")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0730/173227_2a40c9e5_120025.png "微信图片_20180730173128.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0730/173249_c05c12f8_120025.png "微信图片_20180730173133.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0730/173302_0983b766_120025.png "微信图片_20180730173138.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0730/173314_91187ce9_120025.png "微信图片_20180730173142.png")
